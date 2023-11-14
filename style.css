@@ -1,0 +1,19 @@
+* {
+    background-color: lightskyblue;
+}
+
+.centeringclass {
+    text-align: center;
+}
+
+.imagecenteringclass {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: auto;
+}
+
+#ulcss {
+    display: inline-block;
+    text-align: left;
+}
